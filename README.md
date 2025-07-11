@@ -1,9 +1,6 @@
 # Fake Profile Identification using Machine Learning and NLP
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg) ![Django](https://img.shields.io/badge/Django-3.2-green.svg) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-brightgreen.svg) ![MySQL](https://img.shields.io/badge/MySQL-blue.svg)
-
-A web-based application designed to detect fake user profiles on social networking platforms. This project leverages Machine Learning algorithms and Natural Language Processing (NLP) to classify profiles as either genuine or fake, aiming to enhance online security and mitigate risks like identity theft, trolling, and online bullying.
-
 ## 📖 Project Overview
 
 Social networking sites are an integral part of modern life, but they also present significant security challenges. Malicious actors often create fake profiles to engage in undesirable activities, including fraud, campaigning, and identity theft. This project proposes a robust system to identify such fake profiles by analyzing various profile attributes. It uses a combination of machine learning classifiers like **Support Vector Machine (SVM)** and **Naïve Bayes** to achieve a higher detection accuracy rate compared to traditional methods.
